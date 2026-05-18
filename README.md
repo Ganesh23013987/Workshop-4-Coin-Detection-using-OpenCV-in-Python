@@ -27,4 +27,5 @@ Jupyter Notebook or any Python IDE
 
 ## OUTPUT:
 The program successfully detects and counts 9 coins in the input image.
+
 Each detected coin is highlighted with a red circle on the output image.
