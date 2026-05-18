@@ -5,9 +5,13 @@ To detect and count the number of coins present in an image using image processi
 
 ## SOFTWARE REQUIREMENTS:
 Python 3.x
+
 OpenCV (cv2)
+
 NumPy
+
 Matplotlib
+
 Jupyter Notebook or any Python IDE
 
 ### Name: Ganesh D
