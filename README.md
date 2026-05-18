@@ -10,6 +10,9 @@ NumPy
 Matplotlib
 Jupyter Notebook or any Python IDE
 
+### Name: Ganesh D
+### Reg.No: 212223240035
+
 ## ALGORITHM:
 ### 1. Read the Image: Load the coin image using cv2.imread().
 ### 2. Convert to Grayscale: Convert the color image to grayscale for easier processing.
@@ -17,8 +20,6 @@ Jupyter Notebook or any Python IDE
 ### 4. Perform Morphological Operations: Use dilation and erosion to remove noise and enhance coin boundaries.
 ### 5. Detect Blobs: Apply the SimpleBlobDetector to identify circular regions corresponding to coins and count them.
 
-### Name: Ganesh D
-### Reg.No: 212223240035
 
 ## OUTPUT:
 The program successfully detects and counts 9 coins in the input image.
